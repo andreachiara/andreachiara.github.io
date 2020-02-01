@@ -1,4 +1,4 @@
-# Andrea Chiara's projects portfolio
+# Aki's Projects Portfolio
 
 ____
 
