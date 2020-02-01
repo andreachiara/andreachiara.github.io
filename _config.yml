@@ -1,5 +1,5 @@
 title: <a href="http://aki.codes/">AKI.codes</a>
-remote_theme: andreachiara/cayman
+theme: cayman
 include:
         -readme.md
         -esp8266.md
