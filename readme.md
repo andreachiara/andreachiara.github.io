@@ -17,9 +17,14 @@ The projects in this will mostly deal in IoT.
 ESP 32 is another WiFi/BT enabled MCU, thought more powerful and with more 
 memory than the esp8266 they share a programming toolchain: the Arduino IDE + esptool works great for programming this too.
 
-### [FTDI programmer for ESP8266](FTDItoFlash.html)
+### [FTDI programmer for ESP8266](/FTDItoFlash.html)
 Electronics project detailing how to build an auto-reset, auto-program board.
 This allowa to program the bare esp8266 chip needing only the FTDI board as anotherr component
+
+### [LED matrix display with driver board](/ledmatrix.html)
+Electronics project. The goal was to build a LED matrix display from scratch as an exercise in soldering.
+The projects includes a driver board built using an off-the-shelf IC (MAX7219).
+The official Arduino library for the IC was used.
 
 ### [Roguelike (C++ game)](/roguelike.md)
 C++ roguelike (randomly generated levels in a dungeon), built as a personal challenge.
