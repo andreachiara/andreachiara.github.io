@@ -20,7 +20,7 @@ memory than the esp8266 they share a programming toolchain: the Arduino IDE + es
 
 ### [FTDI programmer for ESP8266](/FTDItoFlash.html)
 Electronics project detailing how to build an auto-reset, auto-program board.
-This allowa to program the bare esp8266 chip needing only the FTDI board as anotherr component
+This allows to program the bare esp8266 chip needing only the FTDI board as an extra component
 
 ### [LED matrix display with driver board](/ledmatrix.html)
 Electronics project. The goal was to build a LED matrix display from scratch as an exercise in soldering.
