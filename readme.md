@@ -33,6 +33,6 @@ The code allowed for an in-depth study of input and output manipulation in the c
 The ncurses library was used.
 
 ### [Other projects](#)
-*Coming soon* (including this site)
+*Coming soon*
 
 ## Have a great day!
