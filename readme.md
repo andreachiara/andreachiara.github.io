@@ -1,5 +1,5 @@
 # Andrea Chiara's Portfolio
-
+____
 ____
 
 ### [Who am I?](/aboutme.html)
@@ -44,5 +44,7 @@ ____
 
 ### [Other projects](#)
 *Coming soon*
+
+____
 
 ## Have a great day!
