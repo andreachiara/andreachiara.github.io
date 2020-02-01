@@ -1,9 +1,9 @@
-# Andrea Chiara's projects portfolio
+# Andrea Chiara's Portfolio
 
 ____
 
 ### [Who am I?](/aboutme.html)
-Brief section of autobiography.
+Brief section of autobiography. Short answer: Andrea Chiara.
 
 ____
 
@@ -12,7 +12,7 @@ ESP 8266 is a WiFi/BT enabled MCU (Micro Controller Unit).
 All the hereby software for this MCU has been written in the Arduino IDE
 with the Arduino programming language (derived from C++).
 Programming was attained via esptool.
-The projects in this will mostly deal in IoT.
+The projects in this section will mostly deal in IoT.
 
 ### [ESP32 projects](/esp32.html)
 ESP 32 is another WiFi/BT enabled MCU, thought more powerful and with more 
@@ -20,7 +20,7 @@ memory than the esp8266 they share a programming toolchain: the Arduino IDE + es
 
 ### [FTDI programmer for ESP8266](/FTDItoFlash.html)
 Electronics project detailing how to build an auto-reset, auto-program board.
-This allowa to program the bare esp8266 chip needing only the FTDI board as anotherr component
+This allows to program the bare esp8266 chip needing only the FTDI board as an extra component
 
 ### [LED matrix display with driver board](/ledmatrix.html)
 Electronics project. The goal was to build a LED matrix display from scratch as an exercise in soldering.
