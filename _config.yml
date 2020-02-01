@@ -1,2 +1,9 @@
 title: AKI.codes
 theme: jekyll-theme-cayman
+include:
+        -readme.md
+        -esp8266.md
+        -esp32.md
+        -roguelike.md
+        -FTDItoFlash.md
+
