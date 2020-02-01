@@ -35,4 +35,6 @@ The ncurses library was used.
 ### [Other projects](#)
 *Coming soon*
 
+____
+
 ## Have a great day!
