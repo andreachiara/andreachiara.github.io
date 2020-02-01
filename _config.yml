@@ -1,5 +1,5 @@
 title: <a href="http://aki.codes/">AKI.codes</a>
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 remote_theme: andreachiara/cayman
 include:
         -readme.md
