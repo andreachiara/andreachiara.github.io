@@ -1,4 +1,4 @@
-title: AKI.codes
+title: [AKI.codes](/index.html)
 theme: jekyll-theme-cayman
 include:
         -readme.md
@@ -6,5 +6,6 @@ include:
         -esp32.md
         -roguelike.md
         -FTDItoFlash.md
-        ledmatrix.md;
+        -ledmatrix.md
+        -aboutme.md
 
