@@ -12,7 +12,7 @@ ESP 8266 is a WiFi/BT enabled MCU (Micro Controller Unit).
 All the hereby software for this MCU has been written in the Arduino IDE
 with the Arduino programming language (derived from C++).
 Programming was attained via esptool.
-The projects in this will mostly deal in IoT.
+The projects in this section will mostly deal in IoT.
 
 ### [ESP32 projects](/esp32.html)
 ESP 32 is another WiFi/BT enabled MCU, thought more powerful and with more 
