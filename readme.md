@@ -31,5 +31,5 @@ C++ roguelike (randomly generated levels in a dungeon), built as a personal chal
 The code allowed for an in-depth study of input and output manipulation in the command line.
 The ncurses library was used.
 
-### [Other projects]
+### [Other projects](#)
 *Coming soon*
