@@ -35,7 +35,7 @@ The official Arduino library for the IC was used.
 
 ____
 
-### [Roguelike (C++ game)](/roguelike.md)
+### [Roguelike (C++ game)](https://github.com/cussoandre/roguelike)
 C++ roguelike (randomly generated levels in a dungeon), built as a personal challenge.
 The code allowed for an in-depth study of input and output manipulation in the command line.
 The ncurses library was used.
