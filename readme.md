@@ -22,13 +22,13 @@ memory than the esp8266 they share a programming toolchain: the Arduino IDE + es
 
 ____
 
-### [FTDI programmer for ESP8266](/FTDItoFlash.html)
+### [FTDI programmer for ESP8266 (images only)](/FTDItoFlash.html)
 Electronics project detailing how to build an auto-reset, auto-program board.
 This allows to program the bare esp8266 chip needing only the FTDI board as an extra component
 
 ____
 
-### [LED matrix display with driver board](/ledmatrix.html)
+### [LED matrix display with driver board (coming soon)](/ledmatrix.html)
 Electronics project. The goal was to build a LED matrix display from scratch as an exercise in soldering.
 The projects includes a driver board built using an off-the-shelf IC (MAX7219).
 The official Arduino library for the IC was used.
@@ -39,6 +39,7 @@ ____
 C++ roguelike (randomly generated levels in a dungeon), built as a personal challenge.
 The code allowed for an in-depth study of input and output manipulation in the command line.
 The ncurses library was used.
+This post is a direct link to the github repo.
 
 ____
 
