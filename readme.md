@@ -48,4 +48,4 @@ ____
 
 ____
 
-## Have a great day!
+## Have a wonderful day!
